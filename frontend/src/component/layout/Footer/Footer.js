@@ -24,7 +24,7 @@ const Footer = () => {
         <h4>Follow Us</h4>
         <a href="http://instagram.com/ghareebstar">Instagram</a>
         <a href="http://github.com/ghareebstar">Github</a>
-        <a href="http://linkedin.com/c/ghareebstar">LinkedIn</a>
+        <a href="https://www.linkedin.com/co/ghareebstar">LinkedIn</a>
       </div>
     </footer>
   );
