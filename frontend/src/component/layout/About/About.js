@@ -33,7 +33,7 @@ const About = () => {
           </div>
           <div className="aboutSectionContainer2">
             <Typography component="h2">Our Brands</Typography>
-            <a href="https://www.linkedin.com/co/ghareebstar" target="_blank">
+            <a href="https://in.linkedin.com/in/ghareebstar" target="_blank">
               <LinkedInIcon className="youtubeSvgIcon" />
             </a>
 
